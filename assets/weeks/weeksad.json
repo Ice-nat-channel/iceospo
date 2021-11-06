@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"goodbye-to-the-world",
+			"spooky",
+			[
+				255,
+				255,
+				55
+			]
+		],
+		[
+			"souless-5",
+			"spooky",
+			[
+				146,
+				113,
+				15
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"storyName": "Sad :(",
+	"weekName": "Sad + Fun (Song 2 is the longest song in the fnf world)",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
